@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.14)  1 FEB 2019 00:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.14)  1 FEB 2019 11:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -837,10 +837,13 @@ You may provide a definition with
 \DeclareUnicodeCharacter 
 
 Missing character: There is no ( in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
 Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no d in font nullfont!
@@ -3139,7 +3142,7 @@ l.30 ...理・仮想メモリを解析していく
 Here is how much of TeX's memory you used:
  679 strings out of 492649
  8731 string characters out of 6129622
- 88930 words of memory out of 5000000
+ 88933 words of memory out of 5000000
  4620 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
